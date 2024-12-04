@@ -2,8 +2,7 @@
 
 Welcome to my recluse
 
-- 🔭 I’m currently working on obtaining my associates of science in computer science
-- 🌱 I’m currently learning how to make my github stand out
+- 🔭 I’m currently working on obtaining my BS of computer science
 - ⚡ Fun fact: It's illegal to hunt for whales in Nebraska
 
 *Have a splendid day*
